@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Arashiyama Bamboo Grove",
+    "image": "https://cdn-images-1.medium.com/max/2000/1*vdJuSUKWl_SA9Lp-32ebnA.jpeg",
+    "facts": [
+      {
+        "title": "Summary",
+        "text": "While we could go on about the ethereal glow and seemingly endless heights of this bamboo grove on the outskirts of Kyoto, the sight's pleasures extend beyond the visual realm."
+      },
+      {
+        "title": "How to Get There",
+        "text": "Kyoto airport, with several terminals, is located 16 kilometres south of the city and is also known as Kyoto. Kyoto can also be reached by transport links from other regional airports."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mount Fuji",
+    "image": "https://pdd5k477ulx482prl3bm3by1-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/Mt-Fuji-Golf-Fairway.jpg",
+    "facts": [
+      {
+        "title": "Summary",
+        "text": "Japan's Mt. Fuji is an active volcano about 100 kilometers southwest of Tokyo. Commonly called Fuji-san, it is the country's tallest peak at 3,776 meters."
+      },
+      {
+        "title": "Did You Know",
+        "text": "There are three cities that surround Mount Fuji: Gotemba, Fujiyoshida and Fujinomiya."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Kiyomizu-dera",
+    "image": "https://media4.trover.com/T/5a97b80c8beb7fbf57002ffe/fixedw_large_4x.jpg",
+    "facts": [
+      {
+        "title": "Summary",
+        "text": "Kiyomizu-dera, officially Otowa-san Kiyomizu-dera, is an independent Buddhist temple in eastern Kyoto. The temple is part of the Historic Monuments of Ancient Kyoto UNESCO World Heritage site."
+      },
+      {
+        "title": "Architectural Style",
+        "text": "Japanese Buddhist architecture"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Kinkaku-ji",
+    "image": "https://cdn-images-1.medium.com/max/1600/1*sncLZ1eNLYk3s-v76nJn8w.jpeg",
+    "facts": [
+      {
+        "title": "Summary",
+        "text": "Kinkaku-ji, officially named Rokuon-ji, is a Zen Buddhist temple in Kyoto, Japan. It is one of the most popular buildings in Japan."
+      },
+      {
+        "title": "Did You Know",
+        "text": "The Golden Pavilion is set in a magnificent Japanese strolling garden."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Odaiba",
+    "image": "https://jp.openrice.com/userphoto/Article/0/1/0000CM2AF2F38CD85AB341j.jpg",
+    "facts": [
+      {
+        "title": "Summary",
+        "text": "Accessed via the Rainbow Bridge or the futuristic Yurikamome train, Odaiba is a high-tech entertainment hub on an artificial island in Tokyo Bay."
+      },
+      {
+        "title": "Did You Know",
+        "text": "Odaiba Kaihinkoen Station is the nearest station on the Odaiba side of the Rainbow Bridge."
+      }
+    ]
+  }
+]
